@@ -82,3 +82,5 @@ npx changeset pre enter next # or `canary`
 This will generate a `pre.json` file in the `.changeset` directory.
 
 Push it to the branch, then verify and merge the `changesets` "Version Packages" PR for your release channel. `changesets` will publish the pre-release version in CI.
+
+<!-- Auto-update: 2025-10-18T13:19:21.902201 -->
